@@ -2,21 +2,23 @@
 
 ## Project Overview
 
-This project analyzes sales and profit performance using Microsoft Excel and Power BI.
+This project analyzes sales and profit performance using PostgreSQL, Microsoft Excel, and Power BI.
 
 ## Tools Used
 
+- PostgreSQL
 - Microsoft Excel
 - Power BI
 - DAX
 
 ## Analysis
 
+- Extracted and analyzed sales data using PostgreSQL.
+- Cleaned and validated data using Microsoft Excel.
 - Analyzed sales and profit by region, state, category, product, and customer segment.
 - Created KPIs for Total Sales, Total Profit, Total Orders, and Profit Margin %.
-- Used interactive slicers to filter the dashboard.
+- Used interactive slicers to filter and analyze the dashboard.
 - Analyzed product and category-level performance.
-- Created charts to understand sales and profit trends.
 
 ## Dashboard Features
 
@@ -35,4 +37,4 @@ This project analyzes sales and profit performance using Microsoft Excel and Pow
 
 ## Skills Demonstrated
 
-SQL | Excel | Power BI | DAX | Data Analysis | Data Visualization
+SQL | PostgreSQL | Excel | Power BI | DAX | Data Analysis | Data Visualization
