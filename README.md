@@ -34,6 +34,7 @@ This project analyzes sales and profit performance using PostgreSQL, Microsoft E
 
 - `Sales_Profit_Analytics.pbix` — Power BI dashboard
 - `Sales_Profit_Analytics.xlsx` — Excel dataset
+- `sales_profit_analysis.sql` - SQL(Postgresql)
 
 ## Skills Demonstrated
 
